@@ -1,0 +1,4 @@
+name: BluePotatoExchange
+version: 1.0.0
+main: com.fukudadato.bluepotato.BluePotatoExchange
+api-version: '1.21'
